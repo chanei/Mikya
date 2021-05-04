@@ -1,0 +1,180 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+#nav {
+    height: 70px;
+    background: #000000;
+}
+#nav img {
+    height: 50px;
+    padding-top: 10px;
+}
+#intro {
+    padding-top: 120px;
+    padding-bottom: 70px;
+    background: linear-gradient(90deg, rgba(22, 44, 76, 1), rgba(22, 44, 76, 0.2)),url('../images/intro_background.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+#intro img {
+    height: 150px;
+    margin-bottom: 50px;
+}
+#intro h3 {
+    color: #e36326;
+    margin-bottom: 50px;
+}
+#intro p {
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+.btn-contact {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    background: #e35f26;
+    color: #ffffff;
+    border-radius: 0;
+    padding: 10px;
+    width: 150px;
+}
+.btn-contact:hover {
+    color: #e35f26;
+    background: #ffffff;
+    border: 1px solid #e35f26;
+}
+
+#services {
+    background: linear-gradient(45deg, rgba(38, 38, 38, 1), rgba(38, 38, 38, 0.8)),url('../images/Robot_arm_1.png');
+    padding: 50px 0px 20px 0px;
+}
+#services h3 {
+    margin-bottom: 50px;
+    color: #e36326;
+}
+#services h4 {
+    margin-bottom: 40px;
+    color: #e36326;
+    font-weight: bold;
+    font-style: italic;
+}
+#services h5 {
+    color: #e36326;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+}
+#services p {
+    color: #ffffff;
+    font-size: 13px;
+}
+#services #service_details img {
+    height: 40px;
+}
+#services #robot-arm-section img {
+    width: 100%;
+}
+
+#app-development {
+    padding-top: 70px;
+}
+#app-development h3 {
+    color: #162a46;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+#app-development p {
+    color: #162a46;
+    font-size: 14px;
+}
+#app-development img {
+    width: 100%;
+}
+
+#process {
+    padding: 100px 0 100px 0;
+}
+#process #title h4 {
+    color: #162a46;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+#process #content {
+    text-align: center;
+}
+#process #content img {
+    height: 40px;
+}
+#process #content h5 {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+#process #content p {
+    font-size: 14px;
+}
+
+#consulting {
+    background: #e36326;
+    color: #ffffff;
+    padding: 50px 0 20px 0;
+}
+#consulting h4 {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+#consulting p {
+    font-size: 14px;
+}
+#consulting img {
+    width: 100%;
+}
+
+#cta {
+    padding: 80px 0 80px 0;
+}
+#cta h3 {
+    color: #162a46;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+#contacts {
+    text-align: center;
+    background: #162a46;
+    color: #ffffff;
+    padding: 25px 0px 20px 0px;
+}
+#contacts #center {
+    border-left: 2px solid #e35f26;
+    border-right: 2px solid #e35f26;
+}
+#contacts h3 {
+    font-weight: bold;
+}
+#contacts p {
+    font-size: 13px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts .fa {
+    color: #e35f26;
+    padding: 10px;
+}
+#contacts .fa:hover {
+    color: #ffffff;
+}
+
+#copyright {
+    text-align: center;
+    font-size: 12px;
+    background: #1f1f1f;
+    color: #7f7f7f;
+    padding: 30px 0px 20px 0px;
+}
